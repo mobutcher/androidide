@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.compose.quadrant.app-mergeDebugResources-35:/values-nl/values-nl.xml",
+            "map": [
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/79f2617a7fde1102c056c1cdfa9c0cc7/transformed/ui-1.2.0-rc02/res/values-nl/values-nl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,197,280,377,476,561,637,739,826,915,980,1045,1126,1209,1286,1356",
+                        "endColumns": "91,82,96,98,84,75,101,86,88,64,64,80,82,76,69,119",
+                        "endOffsets": "192,275,372,471,556,632,734,821,910,975,1040,1121,1204,1281,1351,1471"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,197,280,377,476,561,637,739,826,915,980,1045,1126,1209,1387,1457",
+                        "endColumns": "91,82,96,98,84,75,101,86,88,64,64,80,82,76,69,119",
+                        "endOffsets": "192,275,372,471,556,632,734,821,910,975,1040,1121,1204,1281,1452,1572"
+                    }
+                },
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cf3bd5984c85af018f40ca29c1039b0c/transformed/core-1.8.0/res/values-nl/values-nl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "1286",
+                        "endColumns": "100",
+                        "endOffsets": "1382"
+                    }
+                }
+            ]
+        }
+    ]
+}
